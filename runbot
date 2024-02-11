@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/denis/dev/homework_bot/
+source venv/bin/activate
+nohup python3 homework.py
